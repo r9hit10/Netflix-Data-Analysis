@@ -1,2 +1,4 @@
 # Focussed
-My first Focussed Github Repository
+My first Focussed Github Repository.
+<br>
+Author- Rohit
