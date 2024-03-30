@@ -1,2 +1,2 @@
 # Focussed
-My first focussed Repository
+My first Focussed Github Repository
