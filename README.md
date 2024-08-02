@@ -1,4 +1,5 @@
-Netflix Case Study
+Netflix Case Study:
+
 This project analyzes the Netflix dataset to gain insights into various aspects such as content distribution, the best time to release new content, and popular genres. The analysis helps understand Netflix's content strategy and provides recommendations for future content additions.
 
 Table of Contents
