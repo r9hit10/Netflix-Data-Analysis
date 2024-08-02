@@ -1,21 +1,57 @@
-# Focussed
-Netflix is one of the most popular media and video streaming platforms. 
-They have over 10000 movies or tv shows available on their platform, as of mid-2021, they have over 222M Subscribers globally. 
-This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc.
-The dataset provided consists of a list of all the TV shows/movies available on Netflix:
-Show_id: Unique ID for every Movie / Tv Show
-Type: Identifier - A Movie or TV Show
-Title: Title of the Movie / Tv Show
-Director: Director of the Movie
-Cast: Actors involved in the movie/show
-Country: Country where the movie/show was produced
-Date_added: Date it was added on Netflix
-Release_year: Actual Release year of the movie/show
-Rating: TV Rating of the movie/show
-Duration: Total Duration - in minutes or number of seasons
-Listed_in: Genre
+Netflix Case Study
+This project analyzes the Netflix dataset to gain insights into various aspects such as content distribution, the best time to release new content, and popular genres. The analysis helps understand Netflix's content strategy and provides recommendations for future content additions.
 
-Business Problem
-Analyze the data and generate insights that could help Netflix ijn deciding which type of shows/movies to produce and how they can grow the business in different countries
-<br>
-Author- Rohit
+Table of Contents
+Introduction
+Data
+Installation
+Usage
+Analysis
+Contributing
+License
+Introduction
+The goal of this project is to analyze Netflix's content library to uncover trends and patterns that can inform strategic decisions for content acquisition and scheduling.
+
+Data
+The dataset used for this analysis is netflix.csv, which contains information about movies and TV shows available on Netflix.
+
+Installation
+To run the analysis, you need to have Python and the following libraries installed:
+
+numpy
+pandas
+matplotlib
+seaborn
+You can install the required libraries using:
+
+bash
+Copy code
+pip install numpy pandas matplotlib seaborn
+Usage
+Clone this repository:
+bash
+Copy code
+git clone https://github.com/yourusername/netflix-case-study.git
+Navigate to the project directory:
+bash
+Copy code
+cd netflix-case-study
+Place the netflix.csv file in the project directory.
+Run the Jupyter notebook to perform the analysis:
+bash
+Copy code
+jupyter notebook Netflix_Case_Study.ipynb
+Analysis
+The analysis includes the following steps:
+
+Data Cleaning: Preparing the data by handling missing values, splitting columns with multiple values, and removing duplicates.
+Trend Analysis: Analyzing the number of movies and TV shows added over the years.
+Geographical Insights: Examining content production across different countries.
+Director and Actor Insights: Identifying prolific directors and actors.
+Content Popularity: Exploring frequently categorized movies and TV shows.
+Genre Analysis: Investigating popular and emerging genres on Netflix.
+Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+License
+This project is licensed under the MIT License.
