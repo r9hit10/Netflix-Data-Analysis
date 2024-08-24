@@ -41,6 +41,7 @@ Navigate to the project directory:
 bash
 Copy code
 cd netflix-case-study
+
 Place the netflix.csv file in the project directory.
 
 Run the Jupyter notebook to perform the analysis:
