@@ -35,7 +35,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone [https://github.com/yourusername/netflix-case-study.git](https://github.com/r9hit10/Netflix-Data-Analysis)
+git clone (https://github.com/r9hit10/Netflix-Data-Analysis)
 
 Navigate to the project directory:
 bash
